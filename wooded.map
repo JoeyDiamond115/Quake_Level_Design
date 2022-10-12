@@ -1775,3 +1775,49 @@
 "classname" "info_player_start"
 "origin" "32 992 24"
 }
+// entity 2
+{
+"classname" "info_player_deathmatch"
+"origin" "1440 160 24"
+"angle" "180"
+}
+// entity 3
+{
+"classname" "info_player_deathmatch"
+"origin" "1440 864 24"
+"angle" "180"
+}
+// entity 4
+{
+"classname" "info_player_deathmatch"
+"origin" "1328 960 216"
+"angle" "180"
+}
+// entity 5
+{
+"classname" "info_player_deathmatch"
+"origin" "1328 64 216"
+"angle" "180"
+}
+// entity 6
+{
+"classname" "info_player_deathmatch"
+"origin" "352 832 24"
+"angle" "0"
+}
+// entity 7
+{
+"classname" "info_player_deathmatch"
+"origin" "352 192 24"
+"angle" "0"
+}
+// entity 8
+{
+"classname" "info_player_deathmatch"
+"origin" "352 512 216"
+}
+// entity 9
+{
+"classname" "info_player_deathmatch"
+"origin" "64 464 24"
+}
